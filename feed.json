@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "moviegeek.com",
     "description": "",
-    "home_page_url": "https:// abi-man67.github.io/mywebsite",
-    "feed_url": "https:// abi-man67.github.io/mywebsite/feed.json",
+    "home_page_url": "https://abi-man67.github.io/mywebsite",
+    "feed_url": "https://abi-man67.github.io/mywebsite/feed.json",
     "user_comment": "",
     "author": {
         "name": "Abigail Manuel"

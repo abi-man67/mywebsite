@@ -1,138 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https:// abi-man67.github.io/mywebsite/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://abi-man67.github.io/mywebsite/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https:// abi-man67.github.io/mywebsite/</loc>
+<loc>https://abi-man67.github.io/mywebsite/</loc>
 </url>
 <url>
-<loc>https:// abi-man67.github.io/mywebsite/ending.html</loc>
+<loc>https://abi-man67.github.io/mywebsite/ending.html</loc>
 <lastmod>2025-10-20T10:23:12+02:00</lastmod>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/3/pOPCORN-2.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/3/pOPCORN-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https:// abi-man67.github.io/mywebsite/movie-suggester-2.html</loc>
+<loc>https://abi-man67.github.io/mywebsite/movie-suggester-2.html</loc>
 <lastmod>2025-10-20T10:19:41+02:00</lastmod>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/notebook-cover-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/notebook-cover-thumbnail.jpg</image:loc>
 <image:title><![CDATA[The Notebook]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/titanic-cover-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/titanic-cover-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Titanic]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/a-walk-to-remember-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/a-walk-to-remember-thumbnail.jpg</image:loc>
 <image:title><![CDATA[A Walk to Remember]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/the-fault-in-our-stars-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/the-fault-in-our-stars-thumbnail.jpg</image:loc>
 <image:title><![CDATA[The Fault in Our Stars]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/me-before-you-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/me-before-you-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Me Before You]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/10-things-i-hate-about-you-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/10-things-i-hate-about-you-thumbnail.jpg</image:loc>
 <image:title><![CDATA[10 Things I hate about you]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/How-to-lose-a-guy-in-10-days-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/How-to-lose-a-guy-in-10-days-thumbnail.jpg</image:loc>
 <image:title><![CDATA[How to Lose a guy in 10 days]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/wild-child-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/wild-child-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Wild Child]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/shes-the-man-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/shes-the-man-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Shes The Man]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/The-proposal-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/The-proposal-thumbnail.jpg</image:loc>
 <image:title><![CDATA[The Proposal]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/Big-mamas-House-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/Big-mamas-House-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Big Mama's House]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/Daddy-daycare-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/Daddy-daycare-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Daddy Day Care]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/daddys-home-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/daddys-home-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Daddy's Home]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/Grown-ups-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/Grown-ups-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Grown Ups]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/white-chicks-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/white-chicks-thumbnail.jpg</image:loc>
 <image:title><![CDATA[White Chicks]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/Die-hard-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/Die-hard-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Die Hard]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/fast-and-furious-7-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/fast-and-furious-7-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Fast and Furious 7 ]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/the-matrix-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/the-matrix-thumbnail.jpg</image:loc>
 <image:title><![CDATA[The Matrix]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/rush-hour-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/rush-hour-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Rush Hour]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/The-Hitmans-Bodyguard-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/The-Hitmans-Bodyguard-thumbnail.jpg</image:loc>
 <image:title><![CDATA[The Hitmans bodyguard]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/avengers-Endgame-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/avengers-Endgame-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Avengers: Endgame]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/Black-Panther-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/Black-Panther-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Black Panther]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/far-from-home-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/far-from-home-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Spiderman: Far from Home]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/Guardian-of-the-Galaxy-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/Guardian-of-the-Galaxy-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Guardians of The Galaxy]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/Ironman-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/Ironman-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Ironman]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/Beauty-and-the-beats-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/Beauty-and-the-beats-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Beauty and the Beast]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/Frozen-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/Frozen-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Frozen]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/Lion-ming-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/Lion-ming-thumbnail.jpg</image:loc>
 <image:title><![CDATA[The Lion King]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/Princess-and-the-frog-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/Princess-and-the-frog-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Princess and the Frog]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// abi-man67.github.io/mywebsite/media/posts/2/gallery/Toy-story-thumbnail.jpg</image:loc>
+<image:loc>https://abi-man67.github.io/mywebsite/media/posts/2/gallery/Toy-story-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Toy Story]]></image:title>
 </image:image>
 </url>
