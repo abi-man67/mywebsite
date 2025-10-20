@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https:// abi-man67.github.io/mywebsite/sitemap.xml
